@@ -1,23 +1,24 @@
-Game,Started (Date),Completed (Date),Rating
-Bastion,?,?,5/5
-Tropico 5,?,?,3/5
-Sains Row 4,?,?,3/5
-Serious Sam 3,?,?,4/5
-Metro: Last Light,?,?,4/5
-Killing Floor,?,?,3/5
-Deponia,?,?,4/5
-Portal,?,?,5/5
-Portal 2,?,?,5/5
-Borderlands GOTY Enhanced,?,WIP,TBD
-Borderlands 2,TODO,TODO,TBD
-Borderlands The Pre Sequel,?,TODO,TBD
-Deus Ex,TODO,TODO,TBD
-Deus Ex: Invisible War,TODO,TODO,TBD
-Deus Ex: Human Revolution,?,WIP,TBD
-Deus Ex: The Fall,TODO,TODO,TBD
-Deus Ex: Mankind Divided,TODO,TODO,TBD
-GTA III,TODO,TODO,TBD
-GTA Vice City,TODO,TODO,TBD
-GTA San Andreas,TODO,TODO,TBD
-GTA IV,?,TODO,TBD
-GTA V,?,?,4/5
+Game,Started (Date),Completed (Date),Platform,Rating
+Bastion,?,?,PC,5/5
+Galaxy on Fire,?,?,iOS,5/5
+Tropico 5,?,?,PC,3/5
+Sains Row 4,?,?,PC,3/5
+Serious Sam 3,?,?,PC,4/5
+Metro: Last Light,?,?,PC,4/5
+Killing Floor,?,?,PC,3/5
+Deponia,?,?,PC,4/5
+Portal,?,?,PC,5/5
+Portal 2,?,?,PC,5/5
+Borderlands GOTY Enhanced,?,WIP,PC,TBD
+Borderlands 2,TODO,TODO,PC,TBD
+Borderlands The Pre Sequel,?,TODO,PC,TBD
+Deus Ex,TODO,TODO,PC,TBD
+Deus Ex: Invisible War,TODO,TODO,PC,TBD
+Deus Ex: Human Revolution,?,WIP,PC,TBD
+Deus Ex: The Fall,TODO,TODO,PC,TBD
+Deus Ex: Mankind Divided,TODO,TODO,PC,TBD
+GTA III,TODO,TODO,PC,TBD
+GTA Vice City,TODO,TODO,PC,TBD
+GTA San Andreas,TODO,TODO,PC,TBD
+GTA IV,?,TODO,PC,TBD
+GTA V,?,?,PC,4/5
